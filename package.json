@@ -1,0 +1,25 @@
+{
+  "name": "multiroomchat",
+  "version": "1.0.0",
+  "description": "Multiroom chat created for learning purpose ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Multiroom",
+    "chat",
+    "chat",
+    "online"
+  ],
+  "author": "Matheus Soares",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "socket.io": "^2.1.1"
+  }
+}
